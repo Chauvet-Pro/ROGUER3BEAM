@@ -1,5 +1,8 @@
 # ROGUER3BEAM
 
+[V2.241118 - Rogue R3 Beam](https://github.com/Chauvet-Pro/ROGUER3BEAM/blob/22c2ea7b9798d179cbe26ee3e87c4a2227be7e4c/firmware/V2.241118.zip)
+- Factory update - for internal use only
+
 [V2.230316 - Rogue R3 Beam](https://github.com/Chauvet-Pro/ROGUER3BEAM/blob/6c1337811cfb9073a802b77d4b18782818fe7f39/firmware/V2.230316.zip)
 - Fixed RDM issue
 
