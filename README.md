@@ -1,5 +1,8 @@
 # ROGUER3BEAM
 
+[V2.261006 - Rogue R3 Beam](https://github.com/Chauvet-Pro/ROGUER3BEAM/blob/54ddad4630e6bd05faaea9c556af2daa0c266d59/firmware/V2.261006.zip)
+- Fixed strobe sync issue
+
 [V2.241118 - Rogue R3 Beam](https://github.com/Chauvet-Pro/ROGUER3BEAM/blob/22c2ea7b9798d179cbe26ee3e87c4a2227be7e4c/firmware/V2.241118.zip)
 - Factory update - for internal use only
 
